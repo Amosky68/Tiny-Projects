@@ -9,7 +9,7 @@ You will notice that I use two different graphic libraries (Arcade and Pygame), 
 
 # Programs presentation :
 
-
+<font color="red">This text is red!</font>
 
 ## Game of life 2.py :
 this is a simulation of the Conway's game of life
@@ -35,6 +35,6 @@ the drawn fractal is a part of the julia set (using complex numbers)
 ### how to change the drawn fractal ?  
 to change the drawn fractal you need to reload the program with an other value for C *
   
-*   The formula for drawing the fractal is Z² + c | where c and z are complex numbers 
+*   The formula for drawing the fractal is Z² + c | where c and z are complex numbers  
 if this series converges, we draw the pixel in black
   
