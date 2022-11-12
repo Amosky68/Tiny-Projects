@@ -40,4 +40,4 @@ if this series converges, we draw the pixel in black
 
 
 
-<font color="red">This text is red!</font>
+<p style="color:blue">Make this text blue.</p>
