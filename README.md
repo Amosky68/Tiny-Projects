@@ -6,14 +6,21 @@ Here is the presentation of each of my small programs, and how to use them corre
 You will notice that I use two different graphic libraries (Arcade and Pygame), that's because each has its advantages and disadvantages. 
 
 
+
 Programs presentation :
 
 
+
 Game of life 2.py :
+
   this is a simulation of the Conway's game of life
+  
   by pressing SPACE you can pause the simulation. 
+  
   to accelerate it, you need to press the RIGHT and LEFT Arrow 
+  
   you can Empty the grid by pressing R and add a new cell with E 
+  
   
   
 Game2048.py :
