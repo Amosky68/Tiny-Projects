@@ -11,11 +11,15 @@ You will notice that I use two different graphic libraries (Arcade and Pygame), 
 
 
 ## Game of life 2.py :
+```diff
 this is a simulation of the Conway's game of life
+```
 ### how to use it ?
+```diff
 - by pressing SPACE you can pause the simulation. 
 - to accelerate it, you need to press the RIGHT and LEFT Arrow 
 - you can Empty the grid by pressing R and add a new cell with E 
+```
   
   
   
