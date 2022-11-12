@@ -9,7 +9,6 @@ You will notice that I use two different graphic libraries (Arcade and Pygame), 
 
 # Programs presentation :
 
-<font color="red">This text is red!</font>
 
 ## Game of life 2.py :
 this is a simulation of the Conway's game of life
@@ -38,3 +37,12 @@ to change the drawn fractal you need to reload the program with an other value f
 *   The formula for drawing the fractal is Z² + c | where c and z are complex numbers  
 if this series converges, we draw the pixel in black
   
+
+
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
