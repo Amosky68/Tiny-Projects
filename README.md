@@ -12,13 +12,9 @@ Programs presentation :
 
 
 Game of life 2.py :
-
   this is a simulation of the Conway's game of life
-  
   by pressing SPACE you can pause the simulation. 
-  
   to accelerate it, you need to press the RIGHT and LEFT Arrow 
-  
   you can Empty the grid by pressing R and add a new cell with E 
   
   
