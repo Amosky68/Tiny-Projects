@@ -39,5 +39,3 @@ if this series converges, we draw the pixel in black
   
 
 
-
-<p style="color:blue">Make this text blue.</p>
