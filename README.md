@@ -40,9 +40,4 @@ if this series converges, we draw the pixel in black
 
 
 
-```diff -
-text in red
-text in green
-text in orange
-text in gray
-```
+<font color="red">This text is red!</font>
