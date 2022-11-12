@@ -28,7 +28,7 @@ this is a remake of the 2048 mobile game !
 ### how to use it ?
 
 - to play the game you need to press the ARROWS keys, this will move the tile on the right direction
-- to reset the game, simply press R
+- to reset the game, simply press R  
 the game finishes when you reach the 2048 tile or when no movement is possible  
 But keep in mind that you can also go further than 2048 !
 
