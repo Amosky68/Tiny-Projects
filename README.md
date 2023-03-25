@@ -10,9 +10,10 @@ You will notice that I use two different graphic libraries (Arcade and Pygame), 
 # Programs presentation :
 
 
-## Game of life 2.py :
+## Game of lifes (2 and 3).py :
 
 this is a simulation of the Conway's game of life
+version 3 is a optimised upgrade of version 2
 
 ### how to use it ?
 
@@ -20,8 +21,7 @@ this is a simulation of the Conway's game of life
 - to accelerate it, you need to press the RIGHT and LEFT Arrow 
 - you can Empty the grid by pressing R and add a new cell with E 
 
-  
-  
+
   
 ## Game2048.py :
 this is a remake of the 2048 mobile game !
